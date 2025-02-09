@@ -26,7 +26,7 @@ Software testing method that break your software into pieces that can be tested 
 
 #### Index :
 
-- [Getting Started](sections/types_of_tests.md)
+- [Getting Started](sections/getting_started.md)
 - [Global Methods](sections/global_methods.md)
 - [Matchers](sections/matchers.md)
 - [Utilities](sections/utilities.md)
