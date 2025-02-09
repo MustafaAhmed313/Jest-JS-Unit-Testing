@@ -35,4 +35,7 @@ Software testing method that break your software into pieces that can be tested 
 - [Mock Functions](sections/mock_functions.md)
 - [Options](sections/options.md)
 
+
+> **Resource:** [Eng/Osama Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
+
 ---

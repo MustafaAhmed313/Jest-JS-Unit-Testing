@@ -34,3 +34,4 @@ npm test
 
 ⬅️ [`previous`](../sections/asymmetric_matchers.md)
 ➡️ [`next`](../sections/mock_functions.md)
+🚪[`index`](../README.md)
