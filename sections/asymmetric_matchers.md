@@ -41,3 +41,7 @@ it('Testing arrayContaining...', () => {
 > **Note:** the previous test is same as we replace `[4, 4]` by `[4, 4, 4, .....]` it will pass, because once the item is contained in the array then it passed. `(ex: a number 4 is contained two times in the array but, it doesn't mean that we match its occurrences)`
 
 ---
+
+⬅️ [`previous`](../sections/utilities.md)
+➡️ [`next`](../sections/code_coverage.md)
+🚪[`index`](../README.md)

@@ -32,3 +32,7 @@ Any matcher in Jest returns an object has two fundamental properties `message` w
 > **Note:** the `received` object doesn't belong to the matcher method explicitly but, belongs to the return of `expect(something)` as it's the return value of the `something`. you can add a parameter `(ex: target)` to your matcher method that mean your matcher accepts one parameter called `target`.
 
 ---
+
+⬅️ [`previous`](../sections/matchers.md)
+➡️ [`next`](../sections/asymmetric_matchers.md)
+🚪[`index`](../README.md)

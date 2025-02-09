@@ -134,3 +134,7 @@ it('Testing name property value...', () => {
 I think you have many ideas for more efficient matchers like combined matchers or even your own customized matcher. We will introduce the customized jest matchers in the nest section. see more built-in jest [matchers](https://jestjs.io/docs/expect#matchers).
 
 ---
+
+⬅️ [`previous`](../sections/global_methods.md)
+➡️ [`next`](../sections/utilities.md)
+🚪[`index`](../README.md)

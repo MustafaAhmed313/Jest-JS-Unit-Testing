@@ -26,3 +26,7 @@ test('Testing mock function...', () => {
 here you can go in deep with [mock functions](https://jestjs.io/docs/mock-function-api).
 
 ---
+
+⬅️ [`previous`](../sections/code_coverage.md)
+➡️ [`next`](../sections/options.md)
+🚪[`index`](../README.md)

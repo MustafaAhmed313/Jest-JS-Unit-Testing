@@ -27,3 +27,6 @@
 see more about [jest options](https://jestjs.io/docs/configuration#options).
 
 ---
+
+⬅️ [`previous`](../sections/mock_functions.md)
+🚪[`index`](../README.md)

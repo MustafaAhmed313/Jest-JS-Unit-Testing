@@ -102,3 +102,6 @@ it('Testing sayJest it Function....', () => {
 })
 ```
 ---
+
+➡️ [`next`](../sections/global_methods.md)
+🚪[`index`](../README.md)
